@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&display=swap');
+
+.register_page{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100vh;
+    background-image:radial-gradient(circle at 50% 50%,#032265 30%,#0c0c0c 100%);
+    color: white;
+}
+
+.reg-body{
+    height: 80vh;
+    width: 35%;
+    background-color: rgba(128, 128, 128, 0.182);
+    border-radius: 30px;
+    text-align: center;
+}
+
+.reg-body h1{
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'DynaPuff', cursive;
+    font-size: 40px;
+}
+
+.fields{
+    height: 25px;
+    width: 200px;
+    background-color: aliceblue;
+    color: black;
+}
+.fields img{
+    height: 25px;
+    width: 25px;
+}
+
